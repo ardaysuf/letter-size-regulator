@@ -1,2 +1,1 @@
-# letter-size-regulator
-this code can get your words upper or lower 
+before run the code type the pathname of the txt file instead of "file.txt" 
